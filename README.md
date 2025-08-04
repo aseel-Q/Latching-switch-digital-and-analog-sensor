@@ -51,7 +51,8 @@ Steps to Work:
 3. Performance Test:
 • Ensure the LED is working as an output status indicator.
 • The relay operates stably when pressed.
-——————————————————————-
+——————————————————————
+
 (2)Project: Design and Programming of Digital and Analog Sensors
 https://www.tinkercad.com/things/8SMaZTAXOwe-irldr-sensors-?sharecode=SYKMI4-piLo5tZvxE5VzrxkAf03d6ogkzcIS05hDQWE
 
